@@ -33,7 +33,13 @@ Once the "calculator_app" is running on your device/emulator, you can interact w
 4. View result: The result will be displayed in the output area of the app.
 5. Clear: Tap on the clear button to reset the input and output fields and start a new calculation.
 
+
+
 ## Contributing
 Contributions to the "calculator_app" project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the project's repository.
 
 That covers the full description of the "calculator_app" Flutter project. Enjoy building your calculator app!
+
+![calc 1](https://github.com/adityazanzane/calculator_app_flutter/assets/91719677/0e5decd7-4fa8-426d-8a40-83742b5d8817)
+![calc 2](https://github.com/adityazanzane/calculator_app_flutter/assets/91719677/f0a58e62-d4f3-4289-8ec0-fc14c2b9c56a)
+
